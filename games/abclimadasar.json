@@ -1,65 +1,482 @@
 [
     {
         "soal": "Benda : S",
-        "huruf": [
-        "S",
-        "E",
-        "D",
-        "O",
-        "T",
-        "A",
-        "N"
-        ],
+        "huruf": ["S", "E", "D", "O", "T", "A", "N"],
         "jawaban": "Sedotan"
     },
     {
         "soal": "Benda : B",
-        "huruf": [
-        "B",
-        "A",
-        "J",
-        "U"
-        ],
+        "huruf": ["B", "A", "J", "U"],
         "jawaban": "Baju"
     },
     {
-        "soal": "Benda : ",
-        "huruf": [
-        "",
-        "",
-        "",
-        ""
-        ],
-        "jawaban": ""
+        "soal": "Benda : M",
+        "huruf": ["M", "E", "J", "A"],
+        "jawaban": "Meja"
     },
     {
-        "soal": "",
-        "huruf": [
-        "",
-        "",
-        "",
-        ""
-        ],
-        "jawaban": ""
+        "soal": "Benda : K",
+        "huruf": ["K", "U", "R", "S", "I"],
+        "jawaban": "Kursi"
     },
     {
-        "soal": "",
-        "huruf": [
-        "",
-        "",
-        "",
-        ""
-        ],
-        "jawaban": ""
+        "soal": "Benda : L",
+        "huruf": ["L", "E", "M", "A", "R", "I"],
+        "jawaban": "Lemari"
     },
     {
-        "soal": "",
-        "huruf": [
-        "",
-        "",
-        "",
-        ""
-        ],
-        "jawaban": ""
+        "soal": "Benda : P",
+        "huruf": ["P", "I", "S", "A", "U"],
+        "jawaban": "Pisau"
+    },
+    {
+        "soal": "Benda : G",
+        "huruf": ["G", "E", "L", "A", "S"],
+        "jawaban": "Gelas"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "I", "R", "I", "N", "G"],
+        "jawaban": "Piring"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "E", "N", "D", "O", "K"],
+        "jawaban": "Sendok"
+    },
+    {
+        "soal": "Benda : T",
+        "huruf": ["T", "A", "S"],
+        "jawaban": "Tas"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "E", "P", "A", "T", "U"],
+        "jawaban": "Sepatu"
+    },
+    {
+        "soal": "Benda : J",
+        "huruf": ["J", "A", "M"],
+        "jawaban": "Jam"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "E", "N", "A"],
+        "jawaban": "Pena"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "U", "K", "U"],
+        "jawaban": "Buku"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "E", "N", "S", "I", "L"],
+        "jawaban": "Pensil"
+    },
+    {
+        "soal": "Benda : H",
+        "huruf": ["H", "P"],
+        "jawaban": "HP"
+    },
+    {
+        "soal": "Benda : L",
+        "huruf": ["L", "A", "P", "T", "O", "P"],
+        "jawaban": "Laptop"
+    },
+    {
+        "soal": "Benda : T",
+        "huruf": ["T", "E", "L", "E", "V", "I", "S", "I"],
+        "jawaban": "Televisi"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "I", "P", "A", "S"],
+        "jawaban": "Kipas"
+    },
+    {
+        "soal": "Benda : L",
+        "huruf": ["L", "A", "M", "P", "U"],
+        "jawaban": "Lampu"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "U", "L", "K", "A", "S"],
+        "jawaban": "Kulkas"
+    },
+    {
+        "soal": "Benda : A",
+        "huruf": ["A", "C"],
+        "jawaban": "AC"
+    },
+    {
+        "soal": "Benda : M",
+        "huruf": ["M", "O", "B", "I", "L"],
+        "jawaban": "Mobil"
+    },
+    {
+        "soal": "Benda : M",
+        "huruf": ["M", "O", "T", "O", "R"],
+        "jawaban": "Motor"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "E", "P", "E", "D", "A"],
+        "jawaban": "Sepeda"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "I", "N", "T", "U"],
+        "jawaban": "Pintu"
+    },
+    {
+        "soal": "Benda : J",
+        "huruf": ["J", "E", "N", "D", "E", "L", "A"],
+        "jawaban": "Jendela"
+    },
+    {
+        "soal": "Benda : A",
+        "huruf": ["A", "T", "A", "P"],
+        "jawaban": "Atap"
+    },
+    {
+        "soal": "Benda : L",
+        "huruf": ["L", "A", "N", "T", "A", "I"],
+        "jawaban": "Lantai"
+    },
+    {
+        "soal": "Benda : D",
+        "huruf": ["D", "I", "N", "D", "I", "N", "G"],
+        "jawaban": "Dinding"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "A", "P", "U"],
+        "jawaban": "Sapu"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "E", "L"],
+        "jawaban": "Pel"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "R", "P", "E", "T"],
+        "jawaban": "Karpet"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "A", "N", "T", "A", "L"],
+        "jawaban": "Bantal"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "E", "L", "I", "M", "U", "T"],
+        "jawaban": "Selimut"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "S", "U", "R"],
+        "jawaban": "Kasur"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "A", "B", "U", "N"],
+        "jawaban": "Sabun"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "A", "M", "P", "O"],
+        "jawaban": "Sampo"
+    },
+    {
+        "soal": "Benda : O",
+        "huruf": ["O", "D", "O", "L"],
+        "jawaban": "Odol"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "I", "K", "A", "T"],
+        "jawaban": "Sikat"
+    },
+    {
+        "soal": "Benda : H",
+        "huruf": ["H", "A", "N", "D", "U", "K"],
+        "jawaban": "Handuk"
+    },
+    {
+        "soal": "Benda : C",
+        "huruf": ["C", "E", "R", "M", "I", "N"],
+        "jawaban": "Cermin"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "I", "S", "I", "R"],
+        "jawaban": "Sisir"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "A", "Y", "U", "N", "G"],
+        "jawaban": "Payung"
+    },
+    {
+        "soal": "Benda": "T",
+        "huruf": ["T", "O", "P", "I"],
+        "jawaban": "Topi"
+    },
+    {
+        "soal": "Benda : J",
+        "huruf": ["J", "A", "K", "E", "T"],
+        "jawaban": "Jaket"
+    },
+    {
+        "soal": "Benda : C",
+        "huruf": ["C", "E", "L", "A", "N", "A"],
+        "jawaban": "Celana"
+    },
+    {
+        "soal": "Benda : R",
+        "huruf": ["R", "O", "K", "O", "K"],
+        "jawaban": "Rokok"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "O", "R", "A", "N"],
+        "jawaban": "Koran"
+    },
+    {
+        "soal": "Benda : M",
+        "huruf": ["M", "A", "J", "A", "L", "A", "H"],
+        "jawaban": "Majalah"
+    },
+    {
+        "soal": "Benda : R",
+        "huruf": ["R", "A", "D", "I", "O"],
+        "jawaban": "Radio"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "M", "E", "R", "A"],
+        "jawaban": "Kamera"
+    },
+    {
+        "soal": "Benda : T",
+        "huruf": ["T", "A", "B", "U", "N", "G"],
+        "jawaban": "Tabung"
+    },
+    {
+        "soal": "Benda : G",
+        "huruf": ["G", "A", "N", "T", "U", "N", "G"],
+        "jawaban": "Gantungan"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "N", "T", "O", "N", "G"],
+        "jawaban": "Kantong"
+    },
+    {
+        "soal": "Benda : T",
+        "huruf": ["T", "A", "M", "P", "E", "R"],
+        "jawaban": "Temper"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "U", "N", "C", "I"],
+        "jawaban": "Kunci"
+    },
+    {
+        "soal": "Benda : G",
+        "huruf": ["G", "E", "M", "B", "O", "K"],
+        "jawaban": "Gembok"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "A", "K", "U"],
+        "jawaban": "Saku"
+    },
+    {
+        "soal": "Benda : D",
+        "huruf": ["D", "O", "M", "P", "E", "T"],
+        "jawaban": "Dompet"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "R", "T", "U"],
+        "jawaban": "Kartu"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "A", "S", "P", "O", "R"],
+        "jawaban": "Paspor"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "C", "A"],
+        "jawaban": "Kaca"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "A", "T", "E", "R", "A", "I"],
+        "jawaban": "Baterai"
+    },
+    {
+        "soal": "Benda : C",
+        "huruf": ["C", "H", "A", "R", "G", "E", "R"],
+        "jawaban": "Charger"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "B", "E", "L"],
+        "jawaban": "Kabel"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "T", "I", "K", "E", "R"],
+        "jawaban": "Stiker"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "R", "A", "N", "G", "K", "O"],
+        "jawaban": "Pranko"
+    },
+    {
+        "soal": "Benda : A",
+        "huruf": ["A", "M", "P", "L", "O", "P"],
+        "jawaban": "Amplop"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "U", "R", "A", "T"],
+        "jawaban": "Surat"
+    },
+    {
+        "soal": "Benda": "P",
+        "huruf": ["P", "A", "K", "U"],
+        "jawaban": "Paku"
+    },
+    {
+        "soal": "Benda : M",
+        "huruf": ["M", "A", "R", "T", "I", "L"],
+        "jawaban": "Martil"
+    },
+    {
+        "soal": "Benda : T",
+        "huruf": ["T", "A", "N", "G"],
+        "jawaban": "Tang"
+    },
+    {
+        "soal": "Benda : O",
+        "huruf": ["O", "B", "E", "N", "G"],
+        "jawaban": "Obeng"
+    },
+    {
+        "soal": "Benda : G",
+        "huruf": ["G", "E", "R", "G", "A", "J", "I"],
+        "jawaban": "Gergaji"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "I", "S", "A", "U"],
+        "jawaban": "Pisau"
+    },
+    {
+        "soal": "Benda : G",
+        "huruf": ["G", "U", "N", "T", "I", "N", "G"],
+        "jawaban": "Gunting"
+    },
+    {
+        "soal": "Benda : J",
+        "huruf": ["J", "A", "R", "U", "M"],
+        "jawaban": "Jarum"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "E", "N", "A", "N", "G"],
+        "jawaban": "Benang"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "I", "N"],
+        "jawaban": "Kain"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "O", "L"],
+        "jawaban": "Sol"
+    },
+    {
+        "soal": "Benda": "T",
+        "huruf": ["T", "A", "L", "I"],
+        "jawaban": "Tali"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "I", "L", "O", "X"],
+        "jawaban": "Pilox"
+    },
+    {
+        "soal": "Benda : K",
+        "huruf": ["K", "A", "Y", "U"],
+        "jawaban": "Kayu"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "A", "T", "U"],
+        "jawaban": "Batu"
+    },
+    {
+        "soal": "Benda : P",
+        "huruf": ["P", "A", "S", "I", "R"],
+        "jawaban": "Pasir"
+    },
+    {
+        "soal": "Benda : A",
+        "huruf": ["A", "I", "R"],
+        "jawaban": "Air"
+    },
+    {
+        "soal": "Benda : A",
+        "huruf": ["A", "P", "I"],
+        "jawaban": "Api"
+    },
+    {
+        "soal": "Benda : A",
+        "huruf": ["A", "N", "G", "I", "N"],
+        "jawaban": "Angin"
+    },
+    {
+        "soal": "Benda : T",
+        "huruf": ["T", "A", "N", "A", "H"],
+        "jawaban": "Tanah"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "U", "N", "G", "A"],
+        "jawaban": "Bunga"
+    },
+    {
+        "soal": "Benda : D",
+        "huruf": ["D", "A", "U", "N"],
+        "jawaban": "Daun"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "A", "T", "A", "N", "G"],
+        "jawaban": "Batang"
+    },
+    {
+        "soal": "Benda : A",
+        "huruf": ["A", "K", "A", "R"],
+        "jawaban": "Akar"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": ["B", "U", "A", "H"],
+        "jawaban": "Buah"
+    },
+    {
+        "soal": "Benda : S",
+        "huruf": ["S", "A", "Y", "U", "R"],
+        "jawaban": "Sayur"
     }
 ]
