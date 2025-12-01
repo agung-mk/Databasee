@@ -220,7 +220,7 @@
         "jawaban": "Payung"
     },
     {
-        "soal": "Benda": "T",
+        "soal": "Benda : T",
         "huruf": ["T", "O", "P", "I"],
         "jawaban": "Topi"
     },
@@ -350,7 +350,7 @@
         "jawaban": "Surat"
     },
     {
-        "soal": "Benda": "P",
+        "soal": "Benda : P",
         "huruf": ["P", "A", "K", "U"],
         "jawaban": "Paku"
     },
@@ -405,7 +405,7 @@
         "jawaban": "Sol"
     },
     {
-        "soal": "Benda": "T",
+        "soal": "Benda : T",
         "huruf": ["T", "A", "L", "I"],
         "jawaban": "Tali"
     },
