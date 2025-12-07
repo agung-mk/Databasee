@@ -812,8 +812,8 @@
     "jawaban": "Kuncir rambut"
   },
   {
-    "soal": "Bis Bis apa yang enak?",
-    "jawaban": "Biskuit"
+    "soal": "Bis apa yang gabisa ngomong?",
+    "jawaban": "Bisu"
   },
   {
     "soal": "Kepala apa yang manis diminum?",
@@ -850,5 +850,17 @@
   {
     "soal": "Makan mie gak pernah jadi kaya-kaya mie apa itu?",
     "jawaban": "Mie sukses"
-  }
+  },
+  {
+    "soal": "Makan mie gak pernah jadi kaya-kaya mie apa itu?",
+    "jawaban": "Mie sukses"
+  },
+  {
+    "soal": "Bos apa yang bikin stres?",
+    "jawaban": "Bosan",
+  },
+  {
+    "soal": "Tai apa yang sudah menjadi negara?",
+    "jawaban": "Tailand"
+  }    
 ]
